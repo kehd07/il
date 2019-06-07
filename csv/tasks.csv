@@ -1,0 +1,11 @@
+"Name","Description","Estimated Hours"
+"Data Cleaning","Some data cleaning for module xyz.",96
+"Data Cleaning Extended","Some more data cleaning for the module abc",125
+"Data Transformation ","Transform given data into a proper entity",12
+"Data Harmonization","Correct misspelled names in data set xyz",55
+"Indicator Calculation","Implement and run indicator calculation for data set abc",
+"Test Coverage","Provide test coverage for the Indicator Calculation","dont know yet"
+"Solr Schema","Design a solr schema for the data collection patents",25
+"Indexing","Implement indexing process for the data collection xyz",96
+"Indexing","Implement indexing process for the data collection xyz",96
+"Servlet","Provide a REST endpoint for the backend",84
