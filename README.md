@@ -1,4 +1,14 @@
+Install me
 <pre>
 $ npm install
-$ node index.js
+</pre>
+
+Play me
+<pre>
+$ npm start
+</pre>
+
+Test me
+<pre>
+$ npm test
 </pre>
