@@ -1,19 +1,20 @@
 {
   "name": "il",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal Project Management System",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "./node_modules/mocha/bin/mocha"
   },
-  "author": "",
+  "author": "Luis de Llano",
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^4.4.3",
-    "express": "^4.17.1",
     "lodash": "^4.17.11",
-    "mongoose": "^5.5.13",
-    "nodemon": "^1.19.1"
+    "mongoose": "^5.5.13"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
   }
 }
